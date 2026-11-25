@@ -1,3 +1,3 @@
-# Relmo drafts
+# relmo-drafts
 
-Private-by-obscurity review copies of Relmo blog drafts. Every page is marked noindex. Not the live site.
+Empty. Waiting to be deleted by an org owner.
